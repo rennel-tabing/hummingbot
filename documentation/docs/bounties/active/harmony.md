@@ -59,7 +59,7 @@ Achievement | Requirements | Max Spots | Rewards
 
 We send out a bi-weekly update with statistics and performance updates.
 
-To get these updates, enter your email address on [this page](https://www.hummingbot.io/liquidity-bounties/harmony/).
+To get these updates, enter your ETH address on [this page](https://www.hummingbot.io/liquidity-bounties/harmony/).
 
 ## Evaluation
 
