@@ -142,7 +142,7 @@ global_config_map = {
                   is_secure=True),
     "huobi_api_key":
         ConfigVar(key="huobi_api_key",
-                  prompt="Enter your Huobi API key >>> ",
+                  prompt="Enter your Huobi Acess key >>> ",
                   required_if=using_exchange("huobi"),
                   is_secure=True),
     "huobi_secret_key":
